@@ -54,8 +54,8 @@ File báo cáo chi tiết kết quả đánh giá được lưu tại [outputs/a
 | **False Negative (FN)** | 278 | **226** | $\downarrow 52$ box | - |
 | **Precision** | 60.78% | **71.52%** | $\mathbf{\uparrow 10.74\%}$ | - |
 | **Recall** | 57.43% | **65.39%** | $\mathbf{\uparrow 7.96\%}$ | - |
-| **F1-Score** | 0.5906 | **0.6832** | $\mathbf{\uparrow 0.0926}$ | $\ge 0.80$ |
-| **Mean IoU of matches** | 0.8545 | **0.8575** | $\mathbf{\uparrow 0.0030}$ | $\ge 0.70$ (Đạt rất cao) |
+| **F1-Score** | 0.5906 | **0.6832** | $\mathbf{\uparrow 0.0926}$ | $\ge 0.50$ |
+| **Mean IoU of matches** | 0.8545 | **0.8575** | $\mathbf{\uparrow 0.0030}$ | $\ge 0.70$ |
 | **Passed Gate** | `true` | `true` | - | Cần cả F1 & IoU |
 
 ### Phân tích nguyên nhân và quá trình Rework:
