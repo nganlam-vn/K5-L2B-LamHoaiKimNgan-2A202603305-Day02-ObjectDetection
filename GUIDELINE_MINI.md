@@ -2,7 +2,7 @@
 
 > Điền nội dung này trước khi bắt đầu gán nhãn. Giữ lại các quyết định sau khi self-QC và rework.
 
-## Định nghĩa lớp (Thứ tự schema: car=0, van=1, truck=2, bus=3)
+## Định nghĩa lớp 
 
 | ID | Lớp | Định nghĩa của bạn | Ví dụ / Điểm phân biệt |
 | :---: | --- | --- | --- |
